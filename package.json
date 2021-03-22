@@ -1,0 +1,9 @@
+{
+  "name": "mern-simple-setup",
+  "version": "1.0.0",
+  "description": "This project shows the configurations to be made in a MERN Stack",
+  "main": "index.js",
+  "repository": "https://github.com/hugo098/mern-simple-setup.git",
+  "author": "Hugo Rodríguez",
+  "license": "MIT"
+}
